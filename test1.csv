@@ -1,7 +1,0 @@
-10.13.0.0/17,Allow SSH internal,22,22
-10.31.241.20/32,Allow SSH from Nag,22,22
-13.161.224.110/32,IBM Qradar WinColl,135,139
-13.153.224.120/32,IBM Qradar WinColl,135,139
-13.145.40.118/32,IBM Qradar WinColl,135,139
-13.129.74.71/32,IBM Qradar WinColl,135,139
-13.129.74.72/32,IBM Qradar WinColl,135,139
